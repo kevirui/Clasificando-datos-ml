@@ -26,7 +26,7 @@ Este repositorio contiene un proyecto demostrativo sobre clasificación de datos
 ## Requisitos
 
 - Python 3.8 o superior
-- Las dependencias se encuentran en el archivo `requirements.txt` e incluyen, entre otras:
+- Las dependencias incluyen:
   - pandas
   - numpy
   - scikit-learn
@@ -37,7 +37,7 @@ Este repositorio contiene un proyecto demostrativo sobre clasificación de datos
 Instala todas las dependencias ejecutando:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
 ## Uso
@@ -54,10 +54,10 @@ pip install -r requirements.txt
    cd Clasificando-datos-ml
    ```
 
-3. Instala los requerimientos:
+3. Instala las dependencias:
 
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn matplotlib seaborn jupyter
    ```
 
 4. Abre los notebooks y sigue los pasos para reproducir el análisis y el entrenamiento de los modelos.
@@ -68,10 +68,8 @@ pip install -r requirements.txt
 
 ## Notebooks principales
 
-- `notebooks/Exploracion_de_datos.ipynb`: Análisis exploratorio de los datos.
-- `notebooks/Preprocesamiento.ipynb`: Limpieza y transformación de los datos.
-- `notebooks/Modelado.ipynb`: Entrenamiento y evaluación de modelos.
-- `notebooks/Visualizacion_resultados.ipynb`: Gráficas y conclusiones.
+- `notebooks/Clasificacion_primeros_pasos.ipynb`: Análisis exploratorio, clasificación, graficos, entrenamiento y prueba de modelos realizados durante el curso.
+- `notebooks/practice.ipynb`: Análisis exploratorio, clasificación, graficos, entrenamiento y prueba de modelos realizados con datos de prueba.
 
 ## Créditos
 
