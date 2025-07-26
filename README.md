@@ -19,9 +19,7 @@ Este repositorio contiene un proyecto demostrativo sobre clasificación de datos
 ```
 ├── data/             # Conjunto de datos usados en el proyecto
 ├── notebooks/        # Notebooks de Jupyter con el desarrollo paso a paso
-├── src/              # Scripts de código fuente en Python
 ├── outputs/          # Resultados, modelos entrenados y visualizaciones
-├── requirements.txt  # Dependencias necesarias para ejecutar el proyecto
 └── README.md         # Documentación del proyecto
 ```
 
